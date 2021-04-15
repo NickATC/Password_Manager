@@ -13,13 +13,13 @@ Comments and critics are welcome: email me (nicolastautiva.nt      at     gmail 
 
 ## Who is this for?
 For anyone who wants to see in very simple terms how to make a GUI and how to link it to a database.
-**This program is not for personal use...or use it at your own risk.  Remember that there is no security, so anyone can have access to the info in the database.
+**This program is not for personal use...or use it at your own risk.  Remember that there is no security, so anyone can have access to the info in the database.**
 
 ## Getting Started
 
 1.  Download the repo.
 2.  Run *main.py*
-3.  On the menu there is a user guide.  Just 4 steps to create more secure passwords.
+3.  There are few options.  It should be selfexplanatory
 
 ### Prerequisites
 
@@ -29,7 +29,6 @@ To install:
 ```
 pip install pyperclip
 ```
-
 You should be ready within seconds!
 
 ### Things to fix
